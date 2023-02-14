@@ -1,3 +1,5 @@
+# Add two numbers of a two-digit number
+
 two_numbers = input("Type a two digit number: ")
 
 first_digit = int(two_numbers[0])

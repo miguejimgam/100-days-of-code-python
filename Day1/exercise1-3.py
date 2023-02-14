@@ -1,3 +1,5 @@
+# Exchange the variables
+
 a = input("A: ")
 b = input("B: ")
 

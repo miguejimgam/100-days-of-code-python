@@ -1,3 +1,5 @@
+# Remaining life
+
 age = input("What is your current age?")
 
 remaining_age = 90 - int(age)
